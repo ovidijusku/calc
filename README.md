@@ -1,6 +1,6 @@
 # Calculator class
 
-This project is based on Python 3.8. It consist of [1 class](https://github.com/ovidijusku/calc/blob/main/module/classCalc.py).
+This project is based on Python 3.8. It consist of [Calculator class](https://github.com/ovidijusku/calc/blob/main/module/classCalc.py) which can be used to calculate basic mathematical operations.
 
 ### Installation
 
